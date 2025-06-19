@@ -256,7 +256,7 @@ $(window).on('load', function() {
 
     }
 
-    changeAttribution();
+//    changeAttribution();
 
     /* Change image container heights */
     imgContainerHeight = parseInt(getSetting('_imgContainerHeight'));
